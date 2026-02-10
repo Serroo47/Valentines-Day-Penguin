@@ -116,7 +116,7 @@ function showYesScreen() {
   // ✅ Ganze Content-Area ersetzen (Karte verändert sich komplett)
   content.innerHTML = `
     <div class="yes-screen">
-      <img class="hero" src="/penguin_yay.gif" alt="Yay Penguin" />
+      <img class="hero" src="penguin_yay.gif" alt="Yay Penguin" />
       <div class="yes-head">YAAAY! 💙💙💙</div>
       <p class="yes-sub">Hast mein Herz gewonnen Maus 🫶</p>
       <p class="line">Screenshotte das mal und schick’s mir zu, muss schauen ob meine TypeScript Datei funktioniert. </p>
